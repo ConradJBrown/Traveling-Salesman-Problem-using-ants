@@ -47,4 +47,4 @@ This class contains the six methods that you need to complete.  **This is what t
   - will return an integer in range [0,n-1], where n = cumulative.size()
   
 ## How to run
-  - To run this coude you just need to run the antdriver.java file, this is a file given to me for the assingment to test the code i have written.
+  - To run this coude you just need to run the *AntTester.java* file, this is a file given to me for the assingment to test the code i have written.
